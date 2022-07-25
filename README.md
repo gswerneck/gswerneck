@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou estagiando no CNJ (Conselho Nacional de Justiça)
 - 🏫 Cursando Engenharia Mecatrônica na UNB (Universidade de Brasília)
 - 🎓 Possuo alguns certificados do Alura (Ex.: Formação em Python, JS, HTML, CSS...)
-- 🌱 Atualmente aprendendo um pouco de tudo
+- 🌱 Aprendendo um pouco de tudo
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
