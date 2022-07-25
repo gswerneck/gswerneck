@@ -13,8 +13,8 @@
 ## GitHub Stats
 <div>
   <a href="http://github.com/gswerneck">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gswerneck&theme=github_dark&show_icons=true">
-  <img widtt="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswerneck&layout=compact&theme=github_dark"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gswerneck&theme=github_dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswerneck&layout=compact&theme=github_dark"
 </div>
 
 ## Stacks
