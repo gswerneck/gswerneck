@@ -1,4 +1,4 @@
-# Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Gabriel Siqueira Werneck
+# Olá, meu nome é Gabriel Siqueira Werneck ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Estudante de Engenharia Mecatrônica (UnB)
 
 Desde o primeiro semestre da faculdade em que tive contato com a programação, não consegui parar de estudar e correr atrás de novos conhecimentos na área. Na faculdade, dei início aos meus estudos através das linguagens C e Python. Logo depois, me matriculei em cursos online (Aluna, Udemy, WebSites e Comunidades), nos quais aprofundei minhas habilidades em Python e adquiri conhecimentos em HTML, CSS e JavaScript.
