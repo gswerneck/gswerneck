@@ -6,6 +6,7 @@
 - 🏫 Cursando Engenharia Mecatrônica na UNB (Universidade de Brasília)
 - 🎓 Possuo alguns certificados do Alura (Ex.: Formação em Python, JS, HTML, CSS...)
 - 🌱 Aprundando JS e aprendendo um pouco de tudo
+- 🖊️ codepen: https://codepen.io/gswerneck
 
 ## Stacks
 
