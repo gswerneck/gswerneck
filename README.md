@@ -1,17 +1,11 @@
 # Olá, meu nome é Gabriel Siqueira Werneck ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## Estudante de Engenharia Mecatrônica (UnB)
 
-Desde o primeiro semestre da faculdade em que tive contato com a programação, não consegui parar de estudar e correr atrás de novos conhecimentos na área. Na faculdade, dei início aos meus estudos através das linguagens C e Python. Logo depois, me matriculei em cursos online (Aluna, Udemy, WebSites e Comunidades), nos quais aprofundei minhas habilidades em Python e adquiri conhecimentos em HTML, CSS e JavaScript.
-Me considero uma pessoa muito dedicada a atingir meus objetivos, além de estar sempre atrás de novas metas e conquistas. Estou em busca do meu primeiro emprego na área de programação e sinto que sou capaz de ajudar a sua empresa por meio dos meus conhecimentos e principalmente, por meio da minha força de vontade e dedicação. Sou bastante comprometido no que faço e no que sou designado a fazer, e se eu não dominar tal assunto, irei pesquisar e me aprofundar, para entregar o melhor resultado possível.
-
 - 🔭 Atualmente estou estagiando no CNJ (Conselho Nacional de Justiça)
+- 🗺️ Em busca do primeiro emprego na área de programação
 - 🏫 Cursando Engenharia Mecatrônica na UNB (Universidade de Brasília)
 - 🎓 Possuo alguns certificados do Alura (Ex.: Formação em Python, JS, HTML, CSS...)
-- 🌱 Aprendendo um pouco de tudo
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+- 🌱 Aprundando JS e aprendendo um pouco de tudo
 
 ## Stacks
 
