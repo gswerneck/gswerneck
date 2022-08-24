@@ -13,13 +13,6 @@ Me considero uma pessoa muito dedicada a atingir meus objetivos, além de estar 
 - 🤔 I’m looking for help with ...
 -->
 
-## GitHub Stats
-<div>
-  <a href="http://github.com/gswerneck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gswerneck&theme=github_dark&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswerneck&layout=compact&theme=github_dark"
-</div>
-
 ## Stacks
 
 <p align="left">
@@ -31,3 +24,12 @@ Me considero uma pessoa muito dedicada a atingir meus objetivos, além de estar 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
+
+## GitHub Stats
+<div>
+  <a href="http://github.com/gswerneck">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gswerneck&theme=github_dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gswerneck&layout=compact&theme=github_dark"
+</div>
+
